@@ -303,6 +303,3 @@ ___
 
     * You have now deployed a WordPress blog using Amazing AWS EC2. Congrats. :cold_sweat:
 
-# What Did We Do?
-	
-	Hello 
